@@ -1,0 +1,10 @@
+Install 
+
+aptitude install cmake
+
+git clone https://github.com/alexcr-telecom/app_mp4.git
+
+cmake app_mp4/
+make
+ 
+ 
